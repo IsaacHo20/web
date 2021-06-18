@@ -1,0 +1,11 @@
+html {
+	font: 18px "Comic Sans MS", sans-serif;
+}
+body {
+	background-color: #46B566;
+}
+h1, h2, p {
+	color: #FFE000;
+ul {
+	display: flex;
+}
